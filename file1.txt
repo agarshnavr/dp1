@@ -1,2 +1,1 @@
-Hello, this is the first line of the Git and GitHub practical.
-Here we will learn Version Control basics
+Hello from conflict-branch
